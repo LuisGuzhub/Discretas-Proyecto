@@ -1,5 +1,4 @@
 # Calculadora de Álgebra Booleana  
-**Autor:** Luis Guzmán – ESPOL  
 
 Este proyecto consiste en una calculadora de lógica proposicional desarrollada en Java utilizando Swing.  
 Su propósito principal es servir como herramienta académica para el análisis de expresiones lógicas mediante la generación de tablas de verdad, la comprobación de equivalencia lógica y la simplificación algebraica en forma normal disyuntiva (DNF).
